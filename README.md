@@ -12,6 +12,8 @@ Features:
 - Multiple cards visible on the screen at once
 - Pictures stored in the assets folder (custom images)
 
+  Live Demo: https://maham2104.github.io/dynamic-profile-card/
+
 Screenshots:
 
 Light Mode:
